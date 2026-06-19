@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.AutoConfigurationImportListener=\
+com.example.spring_boot_tf_autoconfig.CustomAutoConfigAuditListener
